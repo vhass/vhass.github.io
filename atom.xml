@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title></title>
+    <subtitle>CJJ记录生活中琐碎小事的地方</subtitle>
+    <icon>http://example.com/images/favicon.ico</icon>
+    <link href="http://example.com" />
+    <author>
+      <name>Gary J</name>
+    </author>
+    <updated>2021-01-27T09:26:40.086Z</updated>
+</feed>

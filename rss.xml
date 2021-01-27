@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title></title>
+        <subtitle>CJJ记录生活中琐碎小事的地方</subtitle>
+        <icon>http://example.com/images/favicon.ico</icon>
+        <link>http://example.com</link>
+        <author>
+          <name>Gary J</name>
+        </author>
+        <description>CJJ的学习&amp;游戏&amp;开发日常</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 27 Jan 2021 17:26:40 +0800</pubDate>
+        <lastBuildDate>Wed, 27 Jan 2021 17:26:40 +0800</lastBuildDate>
+    </channel>
+</rss>
